@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metric Generator One", "Metric Generator One\Metric Generator One.csproj", "{26AC59E6-049E-4814-9382-206F7D0B24B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples.ConsoleMetrics", "Samples.ConsoleMetrics\Samples.ConsoleMetrics.csproj", "{65B4666F-2446-4105-B74C-68B52AB849A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26AC59E6-049E-4814-9382-206F7D0B24B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AC59E6-049E-4814-9382-206F7D0B24B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AC59E6-049E-4814-9382-206F7D0B24B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AC59E6-049E-4814-9382-206F7D0B24B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B4666F-2446-4105-B74C-68B52AB849A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B4666F-2446-4105-B74C-68B52AB849A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B4666F-2446-4105-B74C-68B52AB849A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B4666F-2446-4105-B74C-68B52AB849A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1BD00A4-722E-4640-9FF9-19C606BD0B57}
+	EndGlobalSection
+EndGlobal
